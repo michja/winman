@@ -16,16 +16,16 @@ Inspired by Command & Conquer teams. Number your favourite windows (ctrl + super
 &nbsp;&nbsp;&nbsp;&nbsp;save the current window to (number)
 
 -a, --activate  
-  activate (number)
+&nbsp;&nbsp;&nbsp;&nbsp;activate (number)
 
 -l, --list  
-  list current window shortcuts
+&nbsp;&nbsp;&nbsp;&nbsp;list current window shortcuts
 
 -c, --config  
-  [XFCE only] setup hotkeys for (ctrl + super + number) and (super + number)
+&nbsp;&nbsp;&nbsp;&nbsp;[XFCE only] setup hotkeys for (ctrl + super + number) and (super + number)
 
 -d, --delete  
-  remove window shortcuts
+&nbsp;&nbsp;&nbsp;&nbsp;remove window shortcuts
   
 
 ## GUI
