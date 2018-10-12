@@ -13,7 +13,7 @@ Inspired by Command & Conquer teams. Number your favourite windows (ctrl + super
 
 ## Options
 -s, --save  
-  save the current window to (number)
+&nbsp;&nbsp;&nbsp;&nbsp;save the current window to (number)
 
 -a, --activate  
   activate (number)
