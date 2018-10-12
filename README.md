@@ -2,7 +2,7 @@
 Window switching shortcut tool
 
 ## Quickstart
-Assign a window (ctrl + super + number)
+Assign a window (ctrl + super + number)  
 Jump to window (super + number)
 
 
