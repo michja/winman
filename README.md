@@ -35,6 +35,6 @@ Click the clock to launch calendar.google.com
 
 
 ## Support
-This is a personal productivity tool, provided as is but if you have any questions or suggetions I'd love to hear from you!
+This is a personal productivity tool, provided as is, but if you have any questions or suggetions I'd love to hear from you!
 
 
