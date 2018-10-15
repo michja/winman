@@ -5,7 +5,7 @@ Window switching shortcut tool
 Install keyboard shortcuts (XFCE)  
 `/winman.py --config`  
 
-Assign the active window to a number hotkey
+Assign the active window to a number hotkey  
 `ctrl + super + number`  
 
 Jump to window number  
@@ -36,8 +36,8 @@ Inspired by Command & Conquer teams. Number your favourite windows (ctrl + super
   
 
 ## GUI
-Window jump is paired with a minimal overlay tool that launches with a live clock.  
 `/control.py`  
+Window jump is paired with a minimal overlay tool that launches with a live clock.  
 Press up to show the current window mappings.  
 Click the clock to launch calendar.google.com
 
